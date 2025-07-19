@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Shashank" alt="Typing SVG" />
 </p>
 
-<h3 align="center">Aspiring Full Stack Developer | MERN Stack Enthusiast</h3>
+<h3 align="center">Aspiring Full Stack Developer | MERN Stack</h3>
 
 
 
