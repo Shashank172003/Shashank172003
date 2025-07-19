@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashank Nagvanshi</h1>
-<h3 align="center">Aspiring Full Stack Developer | MERN Stack Enthusiast</h3>
+<h3 align="center">Aspiring Full Stack Developer | MERN Stack</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shashank-nagvanshi-61ab32327/" target="_blank">
