@@ -14,15 +14,17 @@
 
 ### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40"/>
-  <img src="https://img.icons8.com/ultraviolet/40/000000/react.png" alt="React" width="40"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-express-js-a-minimal-and-flexible-node-js-web-application-framework-logo-color-tal-revivo.png" alt="Express.js" width="40"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="40"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40"/>
-</p>
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="48" height="48"/>
+  <img src="https://img.icons8.com/ultraviolet/48/000000/react.png" alt="React" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="48" height="48"/>
+  <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" height="32"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="48" height="48"/>
+
+</div>
 
 ---
 
