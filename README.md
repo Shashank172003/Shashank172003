@@ -14,7 +14,7 @@
 
 ### 🛠️ Tech Stack
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; column-gap: 40px; row-gap: 25px; align-items: center;">
 
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="48" height="48"/>
   <img src="https://img.icons8.com/ultraviolet/48/000000/react.png" alt="React" width="48" height="48"/>
@@ -25,6 +25,7 @@
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="48" height="48"/>
 
 </div>
+
 
 ---
 
