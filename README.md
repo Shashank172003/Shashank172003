@@ -1,7 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+👋%2C+I'm+Shashank+Nagvanshi" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Shashank+Nagvanshi" alt="Typing SVG" />
 </p>
-<h3 align="center">Aspiring Full Stack Developer | MERN Stack</h3>
+
+<h3 align="center">Aspiring Full Stack Developer | MERN Stack Enthusiast</h3>
+
 
 ---
 
