@@ -19,15 +19,34 @@
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; column-gap: 40px; row-gap: 25px; align-items: center;">
 
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="48" height="48"/>
-  <img src="https://img.icons8.com/ultraviolet/48/000000/react.png" alt="React" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="48" height="48"/>
-  <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" height="32"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="48" height="48"/>
+<!-- 👨‍💻 Languages -->
+<h4>👨‍💻 Languages</h4>
+<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="48" height="48"/>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="48" height="48"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="48" height="48"/>
+
+<!-- 🎨 Frontend -->
+<h4>🎨 Frontend</h4>
+<img src="https://img.icons8.com/ultraviolet/48/000000/react.png" alt="React" width="48" height="48"/>
+
+<!-- 🔧 Backend & Frameworks -->
+<h4>🔧 Backend & Frameworks</h4>
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="48" height="48"/>
+<img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" height="32"/>
+
+<!-- 🗄️ Database -->
+<h4>🗄️ Database</h4>
+<img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="48" height="48"/>
+
+<!-- 🛠️ Tools & DevOps -->
+<h4>🛠️ Tools & DevOps</h4>
+<img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="48" height="48"/>
+<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="48" height="48"/>
+<img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" width="48" height="48"/>
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="Postman" width="48" height="48"/>
 
 </div>
+
 
 
 ---
