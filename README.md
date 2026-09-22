@@ -2,16 +2,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Shashank" alt="Typing SVG" />
 </p>
 
-<h3 align="center">Aspiring Full Stack Developer | MERN Stack</h3>
+<h3 align="center">Full Stack Developer | C#, ASP.NET core, SQL Server, React.js</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 MCA Student & Self-Taught Developer  
-- 🌱 Currently learning and building full-stack web applications with **MERN Stack**
-- 💼 Looking for internships & open-source opportunities
-- ⚡ Fun fact: I love building things that make life easier!
+- Associate Software Engineer
+- Currently Working in TechproCompsoft Pvt. Ltd. ( Noida )
+- Building full-stack web applications 
 
 ---
 
@@ -24,6 +23,7 @@
 <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="48" height="48"/>
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="48" height="48"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="48" height="48"/>
+<img src="https://shields.io" alt="C#" height="32"/>
 
 <!-- 🎨 Frontend -->
 <h4>🎨 Frontend</h4>
@@ -31,11 +31,13 @@
 
 <!-- 🔧 Backend & Frameworks -->
 <h4>🔧 Backend & Frameworks</h4>
+<img src="https://shields.io" alt="ASP.NET" height="32"/>
 <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="48" height="48"/>
 <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" height="32"/>
 
 <!-- 🗄️ Database -->
 <h4>🗄️ Database</h4>
+<img src="https://shields.io" alt="SQL Server" height="32"/>
 <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="48" height="48"/>
 
 <!-- 🛠️ Tools & DevOps -->
@@ -53,9 +55,12 @@
 
 ### 💬 You Can Ask Me About
 
+- C#
 - React.js
 - Node.js & Express.js
+- ASP.NET Core
 - MongoDB
+- Sql Server
 - JavaScript (ES6+)
 - HTML5, CSS3
 - Full Stack Web Development Basics
@@ -83,14 +88,6 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
-
----
-
-### 🚀 Goals
-
-- 🔭 Become a proficient MERN Stack Developer  
-- 🌐 Contribute to Open Source Projects  
-- 🏆 Build real-world apps that solve real problems
 
 ---
 
