@@ -23,7 +23,7 @@
 <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="48" height="48"/>
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="48" height="48"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="48" height="48"/>
-<img src="https://shields.io" alt="C#" height="32"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" height="32"/>
 
 <!-- 🎨 Frontend -->
 <h4>🎨 Frontend</h4>
@@ -31,13 +31,13 @@
 
 <!-- 🔧 Backend & Frameworks -->
 <h4>🔧 Backend & Frameworks</h4>
-<img src="https://shields.io" alt="ASP.NET" height="32"/> 
+<img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET" height="32"/>
 <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="48" height="48"/>
 <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" height="32"/>
 
 <!-- 🗄️ Database -->
 <h4>🗄️ Database</h4>
-<img src="https://shields.io" alt="SQL Server" height="32"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" height="32"/>
 <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="48" height="48"/>
 
 <!-- 🛠️ Tools & DevOps -->
