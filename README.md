@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Shashank" alt="Typing SVG" />
 </p>
 
-<h3 align="center">Full Stack Developer | C#, ASP.NET core, SQL Server, React.js</h3>
+<h3 align="center">Associate Software Engineer | C#, ASP.NET core, SQL Server, React.js</h3>
 
 ---
 
